@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffba19</color>
+    <color name="colorPrimaryDark">#e5a000</color>
+    <color name="colorAccent">#ff4719</color>
+    <color name="listviewDivider">#ffba19</color>
+    <color name="textTitle">#195eff</color>
+    <color name="textTime">#b0b0b0</color>
+    <color name="textCategory">#b0b0b0</color>
+    <color name="textContent">#797979</color>
+    <color name="primary_pressed">#ff8466</color>
+    <color name="primary">#ff4719</color>
+    <color name="ripple">#ffba19</color>
+
+</resources>
